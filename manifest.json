@@ -1,0 +1,7 @@
+{
+    "name": "pixibi",
+    "version": "0.1.0",
+    "description": "Simple LED matrix helper for MicroPython",
+    "files": ["pixibi.py"]
+  }
+  
